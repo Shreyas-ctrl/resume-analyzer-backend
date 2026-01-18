@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langgraph
+pdfplumber
+supabase
+python-dotenv
