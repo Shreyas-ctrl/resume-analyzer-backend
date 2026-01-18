@@ -1,6 +1,8 @@
 fastapi
 uvicorn
-langgraph
+python-multipart
 pdfplumber
-supabase
+langchain
+langgraph
+openai
 python-dotenv
